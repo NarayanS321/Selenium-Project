@@ -1,0 +1,7 @@
+basic cal :  <robot_class_object.basic_calculator_v2.Calculator object at 0x0000025DECDB4148>
+basic cal :  <robot_class_object.basic_calculator_v2.Calculator object at 0x0000025DECDB4148>
+
+inside addition self = :  <robot_class_object.basic_calculator_v2.Calculator object at 0x0000025DECDB4148>
+ Sum =  20
+inside addition self = :  <robot_class_object.basic_calculator_v2.Calculator object at 0x0000025DECDB4188>
+ Sum =  38
